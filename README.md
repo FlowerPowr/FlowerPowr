@@ -5,7 +5,7 @@
 - <b>Week 7: PacMen Exercise</b>
   - [PacMen Exercise](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Week 8: Eye Exercise</b>
-  - [Eye Exercise](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Eye Exercise](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Lots of fun to make)</b></i>
 - <b>Week 9: Real Time Bus Tracker Exercise</b>
   - [Real Time Bus Tracker Exercise](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Personal Projects:</b>
