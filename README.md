@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Week 7: PacMen Exercise</b>
-  - [PacMen Exercise](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PacMen Exercise]()
 - <b>Week 8: Eye Exercise</b>
   - [Eye Exercise](https://github.com/FlowerPowr/Eye-Exercise-) <b><i>(Lots of fun to make)</b></i>
 - <b>Week 9: Real Time Bus Tracker Exercise</b>
   - [Real Time Bus Tracker Exercise](https://github.com/FlowerPowr/Real-Time-Bus-Tracker)
 - <b>Personal Projects:</b>
-  - [Personal Website](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Personal Website](https://flowerpowr.github.io)
   - [BMI Calculator](https://github.com/joshmadakor1/DecrypterPOC)
 
 
