@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Week 7: PacMen Exercise</b>
-  - [PacMen Exercise]()
+  - [PacMen Exercise](https://github.com/FlowerPowr/Pacman-Exercise-)
 - <b>Week 8: Eye Exercise</b>
   - [Eye Exercise](https://github.com/FlowerPowr/Eye-Exercise-) <b><i>(Lots of fun to make)</b></i>
 - <b>Week 9: Real Time Bus Tracker Exercise</b>
