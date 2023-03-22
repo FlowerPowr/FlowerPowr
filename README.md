@@ -9,8 +9,7 @@
 - <b>Week 9: Real Time Bus Tracker Exercise</b>
   - [Real Time Bus Tracker Exercise](https://github.com/FlowerPowr/Real-Time-Bus-Tracker)
 - <b>Personal Projects:</b>
-  - [Personal Website](https://flowerpowr.github.io)
-  - [BMI Calculator](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Portfolio](https://flowerpowr.github.io)
 
 
 <h2>📺 Popular YouTube Videos</h2>
